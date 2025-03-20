@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wecare/static/css/main.a02f9470.css",
+    "main.js": "/wecare/static/js/main.dbaea450.js",
+    "static/js/453.2eb076a9.chunk.js": "/wecare/static/js/453.2eb076a9.chunk.js",
+    "static/media/background.jpg": "/wecare/static/media/background.b2365991703a5065b459.jpg",
+    "index.html": "/wecare/index.html",
+    "main.a02f9470.css.map": "/wecare/static/css/main.a02f9470.css.map",
+    "main.dbaea450.js.map": "/wecare/static/js/main.dbaea450.js.map",
+    "453.2eb076a9.chunk.js.map": "/wecare/static/js/453.2eb076a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a02f9470.css",
+    "static/js/main.dbaea450.js"
+  ]
+}
