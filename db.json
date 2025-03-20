@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Maria",
+      "password": "maria12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "email": "maria@gmail.com",
+      "mobileNumber": 1234567890,
+      "pincode": 123456,
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India"
+    },
+    {
+      "id": "2",
+      "name": "Marish",
+      "password": "marish2603",
+      "mobileNumber": "8986452321",
+      "email": "marishk.tuty@gmail.com",
+      "dateOfBirth": "1998-03-04",
+      "gender": "M",
+      "pincode": "628103",
+      "city": "kuttudankadu",
+      "state": "Tamil Nadu",
+      "country": "Indian"
+    }
+  ],
+  "coaches": [
+    {
+      "id": "1",
+      "name": "Rose",
+      "password": "rose12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "mobileNumber": 1234567890,
+      "speciality": "Confidence Issues"
+    },
+    {
+      "id": "2",
+      "name": "Jose",
+      "password": "jose12345",
+      "gender": "F",
+      "dateOfBirth": "1996-01-01",
+      "mobileNumber": 1234567890,
+      "speciality": "Confidence Health"
+    }
+  ],
+  "bookings": [
+    {
+      "appointmentDate": "2020-09-24",
+      "slot": "10 AM to 11 AM",
+      "userId": 1,
+      "coachId": 1,
+      "id": "1"
+    },
+    {
+      "appointmentDate": "2024-09-25",
+      "slot": "10 AM to 11 AM",
+      "userId": 1,
+      "coachId": 2,
+      "id": "2"
+    }
+  ]
+}
