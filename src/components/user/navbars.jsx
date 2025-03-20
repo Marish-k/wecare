@@ -5,7 +5,7 @@ function Navbars({ userHome, onTabChange }) {
   return (
     <nav>
       <div className="navbar">
-        <Link style={{ textDecoration: "none" }} to="/">
+        <Link style={{ textDecoration: "none" }} to="/weCare">
           <h3>WeCare</h3>
         </Link>
         <div className="nav-links">
