@@ -31,7 +31,7 @@ h2, p {
 }
 
 
-.container-wrapper {
+@media (min-width: 600px){.container-wrapper {
   display: flex;
   max-height: 400px;
 }
@@ -54,7 +54,7 @@ h2, p {
 .User-container button:hover {
   background-color: #0056b3;
 }
-
+}
 .active-component-container {
   margin: 20px auto;
   max-width: 500px;

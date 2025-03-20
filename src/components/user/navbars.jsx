@@ -39,7 +39,7 @@ function Navbars({ userHome, onTabChange }) {
           </Link>
           {userHome && (
                     <div className="nav-links">
-                      <Link className="nav-link" to='/'>
+                      <Link className="nav-link" to='/weCare'>
                         Logout
                       </Link>
                       </div>
