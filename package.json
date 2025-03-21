@@ -3,7 +3,7 @@
   "name": "wecare",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:8080/",
+  "proxy": "https://marish-k.github.io/fetchapp/db.json",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
